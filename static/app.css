@@ -2,5 +2,23 @@ h1 {
   font-family: Arial, sans-serif;
 }
 body {
-  background-color: pink;
+  background-color: lightblue;
+}
+
+nav ul {
+  list-style:none;
+  font-family: Arial, sans-serif;
+  font-size:20px;
+  text-align: center;
+}
+
+nav ul li{
+  display: inline;
+  margin-right:20px
+}
+
+footer p{
+  font-family: Arial, sans-serif;
+  margin-right: 30px;
+  font-size:20px;
 }
